@@ -1,6 +1,6 @@
 👋 Hi, I’m @SyedAlishahid
 👀 I’m interested in Frontend Development and creating innovative web solutions.
-🌱 I’m currently learning advanced React concepts and improving my skills in JavaScript, CSS, and HTML.
+🌱 Learning advanced React and improving JavaScript, CSS, HTML, and GitHub Actions skills.
 💞️ I’m looking to collaborate on open-source frontend projects.
 📫 How to reach me: syedalishahid2008@gmail.com.
 😄 Pronouns: He/Him
